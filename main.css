@@ -9,6 +9,11 @@
 
 #ank {
 	background-color: #FF4040;
-	border-radius:15px;
-	width:22%
+	border-radius:7px;
+	width:30%;
+	text-align: center;
+}
+
+#ank h3 {
+	text-align: left;
 }
