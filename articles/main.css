@@ -12,11 +12,15 @@ body {
 
 .articletext {
     background-color: #FFFFFF;
-    width: 95%;
+    width: 90%;
     text-align: left;
     border: 3px solid #8585850e;
     border-radius: 3px;
     margin: auto;
     padding: 5px;
     color: #000000;
+}
+
+p {
+    font-size: large;
 }
