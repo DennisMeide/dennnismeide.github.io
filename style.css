@@ -1,0 +1,40 @@
+body {
+    background-image: url('./src/backgroundimg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.head {
+    background-color: #FFFFFF;
+    text-align: center;
+    width: fit-content; 
+    height: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+    border-radius: 10px;
+    border: 5px solid #FFFF00;
+}
+
+.thread {
+    background-color: skyblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 10px;
+    width: 95%;
+}
+
+.singleThread {
+    background-color: #FFFFFF;
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin: 20px 0;
+}
+
+.pwithoutnewline {
+    display: inline;
+}
