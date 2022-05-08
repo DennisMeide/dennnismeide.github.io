@@ -23,4 +23,5 @@ body {
 
 p {
     font-size: large;
+    display: inline;
 }
