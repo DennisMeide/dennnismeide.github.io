@@ -41,6 +41,7 @@ body {
 
 .articlehead {
     font-size: x-large;
+    text-decoration: underline #000000;
 }
 
 p {
